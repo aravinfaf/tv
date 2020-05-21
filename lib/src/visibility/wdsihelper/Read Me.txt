@@ -1,0 +1,14 @@
+Add the Following Lines to pubspec.yml File
+-------------------------------------------
+#Load More Widget for list
+loadmore: ^1.0.3
+#Font awesome Icon
+font_awesome_flutter: ^8.4.0
+#Type Ahead AutoComplete
+flutter_typeahead: ^1.4.1
+#RxDart
+rxdart: ^0.20.0
+#BarCode Scanner
+barcode_scan: ^1.0.0
+#Flutter Toast
+fluttertoast: ^3.0.4
